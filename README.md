@@ -12,4 +12,10 @@ This repository contains materials and resources related to the course "The Art 
 - IBM Advanced AI
   
 ## Description
-This course delves into the techniques and strategies involved in prompt engineering, a critical aspect of natural language processing (NLP) and artificial intelligence (AI) model development. Prompt engineering involves crafting effective prompts or inputs to guide AI models in producing desired outputs or responses. The course covers various topics including prompt design principles, fine-tuning language models, understanding model behaviors, and optimizing prompt-based interactions.
+This project delves into the concept of prompt engineering, a crucial aspect of AI that guides AI models to produce desired outputs. It's instrumental in AI tools like chatbots, text summarizers, and content generators, ensuring they communicate accurately, relevantly, and creatively. The project underscores the benefits of prompt engineering in business, from enhancing chatbot performance to guiding personalization systems, enabling accurate sentiment analysis, and optimizing productivity. It emphasizes the importance of clear instructions, examples, keywords, and feedback when working with large language models (LLMs) like ChatGPT. The project also outlines various techniques, including writing clear instructions, giving the model time to "think", and strategies like Chain-of-Thought (CoT) Prompting and Generated Knowledge Prompting. We also introduce Langchain library that can provide strong tools for prompt engineering.
+
+## Objective
+After completing this lab you will be able to:
+
+- Learn to communicate effectively with AI models like ChatGPT.
+- Gain hands-on experience in prompt engineering in implementing survival analysis in Python.
