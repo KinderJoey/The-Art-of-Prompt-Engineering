@@ -5,8 +5,11 @@ This repository contains materials and resources related to the course "The Art 
 ## Author
 - Cognitive Class
 
-## Participant
+## Mentee
 - Ahmad Azhriel Rizha Zahran
 
 ## Program
 - IBM Advanced AI
+  
+## Description
+This course delves into the techniques and strategies involved in prompt engineering, a critical aspect of natural language processing (NLP) and artificial intelligence (AI) model development. Prompt engineering involves crafting effective prompts or inputs to guide AI models in producing desired outputs or responses. The course covers various topics including prompt design principles, fine-tuning language models, understanding model behaviors, and optimizing prompt-based interactions.
